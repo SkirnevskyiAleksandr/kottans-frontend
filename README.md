@@ -5,14 +5,14 @@
 ### General Basics
 
 - [x] 0. [Git Basics](stage_0/task_git_basics/git_basics.md)
-  - [] 1. [Linux CLI and Networking](stage_0/task_linux_cli/linux_cli.md)
-  - [] 2. [VCS (hello gitty), GitHub and Collaboration](stage_0/task_git_collaboration/git_collaboration.md) -->
+- [ ] 1. [Linux CLI and Networking](stage_0/task_linux_cli/linux_cli.md)
+- [ ] 2. [VCS (hello gitty), GitHub and Collaboration](stage_0/task_git_collaboration/git_collaboration.md) -->
 
 ### Front-End Basics
 
-- [] 3. [Intro to HTML & CSS](stage_0/task_html_css_intro/html_css_intro.md)
-- [] 4. [Responsive Web Design](stage_0/task_responsive_web_design/responsive_web_design.md)
-- [] 5. [JavaScript Basics](stage_0/task_js_basics/js_basics.md)
+- [ ] 3. [Intro to HTML & CSS](stage_0/task_html_css_intro/html_css_intro.md)
+- [ ] 4. [Responsive Web Design](stage_0/task_responsive_web_design/responsive_web_design.md)
+- [ ] 5. [JavaScript Basics](stage_0/task_js_basics/js_basics.md)
 - [ ] 6. [Document Object Model](stage_0/task_js_dom/js_dom.md)
 
 ### Advanced Topics
