@@ -5,7 +5,7 @@
 ### General Basics
 
 - [x] 0. [Git Basics](stage_0/task_git_basics/git_basics.md)
-- [ ] 1. [Linux CLI and Networking](stage_0/task_linux_cli/linux_cli.md)
+- [x] 1. [Linux CLI and Networking](stage_0/task_linux_cli/linux_cli.md)
 - [ ] 2. [VCS (hello gitty), GitHub and Collaboration](stage_0/task_git_collaboration/git_collaboration.md) -->
 
 ### Front-End Basics
