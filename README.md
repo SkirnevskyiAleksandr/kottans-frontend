@@ -11,7 +11,7 @@
 ### Front-End Basics
 
 - [x] 3. [Intro to HTML & CSS](stage_0/task_html_css_intro/html_css_intro.md)
-- [ ] 4. [Responsive Web Design](stage_0/task_responsive_web_design/responsive_web_design.md)
+- [x] 4. [Responsive Web Design](stage_0/task_responsive_web_design/responsive_web_design.md)
 - [ ] 5. [JavaScript Basics](stage_0/task_js_basics/js_basics.md)
 - [ ] 6. [Document Object Model](stage_0/task_js_dom/js_dom.md)
 
