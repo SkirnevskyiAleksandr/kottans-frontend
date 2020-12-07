@@ -12,15 +12,16 @@
 
 - [x] 3. [Intro to HTML & CSS](stage_0/task_html_css_intro/html_css_intro.md)
 - [x] 4. [Responsive Web Design](stage_0/task_responsive_web_design/responsive_web_design.md)
-- [ ] 5. [JavaScript Basics](stage_0/task_js_basics/js_basics.md)
-- [ ] 6. [Document Object Model](stage_0/task_js_dom/js_dom.md)
+- [x] 5. [HTML & CSS Practice](stage_0/task_HTML_&_CSS_Practice/html_css_practice.md)
+- [ ] 6. [JavaScript Basics](stage_0/task_js_basics/js_basics.md)
+- [ ] 7. [Document Object Model](stage_0/task_js_dom/js_dom.md)
 
 ### Advanced Topics
 
-- [ ] 7. [A Tiny JS World](stage_0/task_tiny_js/tiny_js.md)
-- [ ] 8. [Object oriented JS](stage_0/task_js_oop/js_oop.md) - practice.
-- [ ] 9. [OOP exercise](stage_0/task_oop_exercise/oop_exersice.md) - practice.
-- [ ] 10. [Offline Web Applications](stage_0/task_offline_web_app/offline_web_app.md)
-- [ ] 11. [Memory pair game](stage_0/task_memory_pair_game/memory_pair_game.md) — real project!
-- [ ] 12. [Website Performance Optimization](stage_0/task_website_performance/website_performance.md) - optional.
-- [ ] 13. [Friends App](stage_0/task_friends_app/friends.app.md) - real project!
+- [ ] 8. [A Tiny JS World](stage_0/task_tiny_js/tiny_js.md)
+- [ ] 9. [Object oriented JS](stage_0/task_js_oop/js_oop.md) - practice.
+- [ ] 10. [OOP exercise](stage_0/task_oop_exercise/oop_exersice.md) - practice.
+- [ ] 11. [Offline Web Applications](stage_0/task_offline_web_app/offline_web_app.md)
+- [ ] 12. [Memory pair game](stage_0/task_memory_pair_game/memory_pair_game.md) — real project!
+- [ ] 13. [Website Performance Optimization](stage_0/task_website_performance/website_performance.md) - optional.
+- [ ] 14. [Friends App](stage_0/task_friends_app/friends.app.md) - real project!
