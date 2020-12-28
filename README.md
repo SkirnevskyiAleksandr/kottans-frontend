@@ -13,7 +13,7 @@
 - [x] 3. [Intro to HTML & CSS](stage_0/task_html_css_intro/html_css_intro.md)
 - [x] 4. [Responsive Web Design](stage_0/task_responsive_web_design/responsive_web_design.md)
 - [x] 5. [HTML & CSS Practice](stage_0/task_HTML_&_CSS_Practice/html_css_practice.md)
-- [ ] 6. [JavaScript Basics](stage_0/task_js_basics/js_basics.md)
+- [x] 6. [JavaScript Basics](stage_0/task_js_basics/js_basics.md)
 - [ ] 7. [Document Object Model](stage_0/task_js_dom/js_dom.md)
 
 ### Advanced Topics
